@@ -33,6 +33,10 @@ github "ruby",       "6.3.0"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "postgresql"
+github "elasticsearch"
+github "tmux"
+		
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
