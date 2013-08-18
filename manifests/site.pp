@@ -76,7 +76,7 @@ node default {
   include ruby::2_0_0
 
   # Other apps
-  include iterm2
+  include iterm2::
   include java
 
   # common, useful packages
