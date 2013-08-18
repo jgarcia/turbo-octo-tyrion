@@ -43,7 +43,9 @@ github "memcached",  "1.2.0"
 github "redis",      "1.0.0"
 github "zsh",        "1.0.0"
 github "zshgitprompt", "1.0.2"
-		
+github "cmake",      "1.0.1"
+github "python",     "1.2.1"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
