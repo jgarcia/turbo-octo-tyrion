@@ -33,7 +33,8 @@ github "ruby",       "6.3.0"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
-github "iterm2",      "1.0.0"
+github "iterm2",     "1.0.0"
+github "java",       "1.1.2"
 		
 
 # Optional/custom modules. There are tons available at
