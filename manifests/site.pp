@@ -75,9 +75,19 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
-  # Other apps
-  include iterm2::stable
+  # Other Dependencies
   include java
+  include postgresql
+  include elasticsearch
+  include memcached
+  include redis
+
+  # Terminal stuff
+  include iterm2::stable
+  include zsh
+  include zshgitprompt
+
+
 
   # common, useful packages
   package {
