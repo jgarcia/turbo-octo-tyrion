@@ -89,6 +89,9 @@ node default {
   include cmake
   include python
 
+  include vim
+  include macvim
+
 
 
   # common, useful packages
