@@ -81,6 +81,7 @@ node default {
   include elasticsearch
   include memcached
   include redis
+  include imagemagick
 
   # Terminal stuff
   include iterm2::stable
@@ -89,9 +90,6 @@ node default {
   include python
 
   include vim
-  include macvim
-
-
 
   # common, useful packages
   package {

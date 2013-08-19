@@ -33,6 +33,7 @@ github "ruby",       "6.3.0"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "imagemagick","1.2.1"
 github "osx",        "1.6.0"
 github "iterm2",     "1.0.0"
 github "java",       "1.1.2"
@@ -45,7 +46,6 @@ github "zsh",        "1.0.0"
 github "cmake",      "1.0.1"
 github "python",     "1.2.1"
 github "vim",        "1.0.5"
-github "macvim",     "1.0.0"
 
 
 # Optional/custom modules. There are tons available at
