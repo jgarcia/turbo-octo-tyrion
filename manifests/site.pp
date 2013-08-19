@@ -86,10 +86,9 @@ node default {
   # Terminal stuff
   include iterm2::stable
   include zsh
-  include cmake
-  include python
 
   include vim
+  include macvim
 
   # common, useful packages
   package {

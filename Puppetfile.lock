@@ -44,6 +44,11 @@ GITHUBTARBALL
     hub (1.0.3)
 
 GITHUBTARBALL
+  remote: boxen/puppet-imagemagick
+  specs:
+    imagemagick (1.2.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-iterm2
   specs:
     iterm2 (1.0.0)
@@ -52,11 +57,6 @@ GITHUBTARBALL
   remote: boxen/puppet-java
   specs:
     java (1.1.2)
-
-GITHUBTARBALL
-  remote: boxen/puppet-macvim
-  specs:
-    macvim (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-memcached
@@ -134,11 +134,6 @@ GITHUBTARBALL
     zsh (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-zshgitprompt
-  specs:
-    zshgitprompt (1.0.2)
-
-GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
     inifile (1.0.0)
@@ -158,10 +153,10 @@ DEPENDENCIES
   git (= 1.2.5)
   homebrew (= 1.4.1)
   hub (= 1.0.3)
+  imagemagick (= 1.2.1)
   inifile (= 1.0.0)
   iterm2 (= 1.0.0)
   java (= 1.1.2)
-  macvim (= 1.0.0)
   memcached (= 1.2.0)
   nginx (= 1.4.2)
   nodejs (= 3.2.9)
@@ -178,5 +173,4 @@ DEPENDENCIES
   vim (= 1.0.5)
   xquartz (= 1.1.0)
   zsh (= 1.0.0)
-  zshgitprompt (= 1.0.2)
 

@@ -43,9 +43,8 @@ github "elasticsearch", "1.0.1"
 github "memcached",  "1.2.0"
 github "redis",      "1.0.0"
 github "zsh",        "1.0.0"
-github "cmake",      "1.0.1"
-github "python",     "1.2.1"
 github "vim",        "1.0.5"
+github "macvim",     "1.0.0"
 
 
 # Optional/custom modules. There are tons available at
