@@ -85,7 +85,6 @@ node default {
   # Terminal stuff
   include iterm2::stable
   include zsh
-  include zshgitprompt
   include cmake
   include python
 
