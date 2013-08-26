@@ -81,9 +81,6 @@ node default {
   include iterm2::stable
   include zsh
 
-  include vim
-  include macvim
-
   # common, useful packages
   package {
     [
