@@ -19,7 +19,6 @@ github "boxen",      "3.0.1"
 # some/most of these if you want, but it's not recommended.
 
 github "autoconf",   "1.0.0"
-github "dnsmasq",    "1.0.0"
 github "gcc",        "2.0.1"
 github "git",        "1.2.5"
 github "homebrew",   "1.4.1"
@@ -34,14 +33,11 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 github "imagemagick","1.2.1"
-github "osx",        "1.6.0"
-github "iterm2",     "1.0.0"
 github "java",       "1.1.2"
 github "postgresql", "2.0.0"
 github "elasticsearch", "1.0.1"
 github "memcached",  "1.2.0"
 github "redis",      "1.0.0"
-github "zsh",        "1.0.0"
 
 
 # Optional/custom modules. There are tons available at
