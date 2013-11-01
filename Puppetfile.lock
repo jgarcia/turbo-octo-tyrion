@@ -9,11 +9,6 @@ GITHUBTARBALL
     boxen (3.0.1)
 
 GITHUBTARBALL
-  remote: boxen/puppet-dnsmasq
-  specs:
-    dnsmasq (1.0.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-elasticsearch
   specs:
     elasticsearch (1.0.1)
@@ -111,7 +106,6 @@ GITHUBTARBALL
 DEPENDENCIES
   autoconf (= 1.0.0)
   boxen (= 3.0.1)
-  dnsmasq (= 1.0.0)
   elasticsearch (= 1.0.1)
   gcc (= 2.0.1)
   git (= 1.2.5)
